@@ -1,3 +1,4 @@
+import time 
 ### MAD LIBS ###
 ### Source: http://www.woojr.com/wp-content/uploads/2010/02/spring-mad-libs-bicycle.jpg
 
@@ -50,3 +51,7 @@ print(" Most doctors agree that bicycle " + verbing1 +
       " bicyles than drive " + animal9 + " Nomatter what kind of " +
       noun10 + " you " + verb11 + " , always be sure to wear a/an " + adjective12 +
       " helmet. Make sure to have " + color13 + " reflectors too! ")
+
+time.sleep(100)
+
+
